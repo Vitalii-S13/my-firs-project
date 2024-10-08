@@ -1,2 +1,2 @@
-# my-firs-project
-This is my-firs-project
+# my-first-project
+This is my-first-project
